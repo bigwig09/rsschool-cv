@@ -1,1 +1,1 @@
-[my CV](https://bigwig09.github.io/rsschool-cv/cv)
+[my CV](https://bigwig09.github.io/rsschool-cv/)
